@@ -1,3 +1,9 @@
+class ControlPanelTest {
+    public static void main(String[] args) {
+        new ControlPanel().control();
+    }
+}
+
 class Altimeter {
     @Override
     public String toString() {
